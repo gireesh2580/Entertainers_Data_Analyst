@@ -1,12 +1,4 @@
-# Entertainers Data Analysis - iNeuron Internship
-
-[PowerBi Report Link](https://www.novypro.com/project/entertainers-data-analysis)
-
-## Project overview 👀
-
-I have done this project as part of the iNeuron Internship. If you are looking for some remote internship opportunity you can check out [iNeuron Internship portal](https://internship.ineuron.ai/), 
-where you can find internship for different technologies in different domains.
-
+# Entertainers Data Analysis 
 
 ## Objective 🎯
 
@@ -26,10 +18,10 @@ Normal life can be stressful, and people need to relax. Being entertained by oth
 
 ### Data populating flow 
 
-<img src="https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/main/Documents/Populating_data_flow.png">
+<img src="https://github.com/gireesh2580/Entertainers_Data_Analyst/blob/main/Documents/Populating_data_flow.png">
 
-- You can refer this page to understand the design and flow of the code - [Code design](https://github.com/Naveen-S6/Entertainers_Data_Analysis/tree/main/src_code)
-- The beauty of designing a code is, you can use them for other data as well, I have populated some extra data for Indian industry entertainers, which I didn't use it in this project. You can find the sql dump in this page [SQL dump](https://github.com/Naveen-S6/Entertainers_Data_Analysis/tree/main/Populated_Data/Indian%20Entertainers%20dataset)
+- You can refer this page to understand the design and flow of the code - [Code design](https://github.com/gireesh2580/Entertainers_Data_Analyst/tree/main/src_code)
+- The beauty of designing a code is, you can use them for other data as well, I have populated some extra data for Indian industry entertainers, which I didn't use it in this project. You can find the sql dump in this page [SQL dump](https://github.com/gireesh2580/Entertainers_Data_Analyst/tree/main/Populated_Data/Indian%20Entertainers%20dataset)
 
 ### Populated data
 
@@ -63,9 +55,9 @@ Normal life can be stressful, and people need to relax. Being entertained by oth
 
 ## Architecture 🪵
 
-<img src="https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/79de0381eb3e30d2a6740a6b19692dc13b7bbfb2/Documents/Architecture.png">
+<img src="https://github.com/gireesh2580/Entertainers_Data_Analyst/blob/main/Documents/Architecture.png">
 
-for the detailed architecture explanation, you can refer this file - [Architecture](https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/79de0381eb3e30d2a6740a6b19692dc13b7bbfb2/Documents/PDFs/Architecture.pdf)
+for the detailed architecture explanation, you can refer this file - [Architecture](https://github.com/gireesh2580/Entertainers_Data_Analyst/blob/main/Documents/PDFs/Architecture.pdf)
 
 ## Report 📈
 
@@ -73,16 +65,16 @@ for the detailed architecture explanation, you can refer this file - [Architectu
 
 ### Homepage 
 
-<img src="https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/51b341efba1dfe4b1c5aff99ab04bd43a6c958ad/Documents/home_page.png">
+<img src="https://github.com/gireesh2580/Entertainers_Data_Analyst/blob/main/Documents/home_page.png">
 
 
 ### Entertainer Page
 
-<img src="https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/51b341efba1dfe4b1c5aff99ab04bd43a6c958ad/Documents/Entertainer_analysis_page.png">
+<img src="https://github.com/gireesh2580/Entertainers_Data_Analyst/blob/main/Documents/Entertainer_analysis_page.png">
 
 ### Movie Analysis Page
 
-<img src="https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/51b341efba1dfe4b1c5aff99ab04bd43a6c958ad/Documents/movie_analysis_page.png">
+<img src="https://github.com/gireesh2580/Entertainers_Data_Analyst/blob/main/Documents/movie_analysis_page.png">
 
 
 ## Few Insights from the Report: 💡
